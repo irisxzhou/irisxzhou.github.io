@@ -110,4 +110,5 @@ span.footer {
     text-decoration: initial;
     font-size: 50px;
     margin: 5px;
+    float: right;
 }
